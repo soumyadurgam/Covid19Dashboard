@@ -49,7 +49,6 @@ class StateTotalData extends Component {
         'https://res.cloudinary.com/amst/image/upload/v1639929248/dese_tgak4e.jpg',
       value: totalDeceased,
     }
-
     this.setState({
       confirmedData,
       activeData,
@@ -145,4 +144,5 @@ class StateTotalData extends Component {
     )
   }
 }
+
 export default StateTotalData

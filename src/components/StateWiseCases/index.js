@@ -335,4 +335,5 @@ class StateWiseCases extends Component {
     )
   }
 }
+
 export default StateWiseCases
